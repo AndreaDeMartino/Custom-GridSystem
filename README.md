@@ -2,4 +2,4 @@
 
 
  
-#### A dynamic and customizable grid system with some utilities, like mixin and breakpoint. This is my personal alternative to libraries like bootstrap
+#### A dynamic and customizable grid system with some utilities, like mixin and breakpoint. This is my personal alternative to libraries like bootstrap.
